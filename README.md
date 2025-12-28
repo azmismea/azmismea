@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Fairuz Azmi Sakhi</h1>
 <h3 align="center">Junior Programmer</h3>
 
-- 👨‍💻 All of my projects are available at [https://azmismea.vercel.app/](https://azmismea.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portazmi.vercel.app/](https://portoazmi.vercel.app/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
